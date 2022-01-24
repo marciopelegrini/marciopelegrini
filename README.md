@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marciopelegrini
-- 👀 I’m interested in C, C++, Web developing, Power Plataform
+- 👀 I’m interested in C, C++, .Net, Python and Web developing, Power Plataform
 - 🌱 I’m currently learning Python
 
 <!---
