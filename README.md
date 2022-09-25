@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marciopelegrini
-- 👀 I’m interested in C, C++, .Net, Python and Web developing, Power Plataform
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in C, C++, .Net, Rust, PHP and Web developing, Power Plataform
+- 🌱 I’m currently learning Rust
 
 <!---
 marciopelegrini/marciopelegrini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
